@@ -1,3 +1,5 @@
 # Not in use
 
-This is just a test of connecting a subdomain - please ignore.
+This is just a test of connecting a subdomain - please ignore.  
+
+V2, cname config included.
